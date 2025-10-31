@@ -115,7 +115,7 @@ KPI	Value (approx.)
 <p align="center"> <img src="Images/covid1.png" width="700"><br> </p> 
 <p align="center"> <img src="Images/covid2.png" width="700"><br>> </p>
 <p align="center"> <img src="Images/covid3.png" width="700"><br> </p>
-<p align="center"> <img src="Images/Top10 active.png" width="700"><br><em>Top 10 countries by active cases</em> </p>
+<p align="center"> <img src="Images/Top 10 active.png" width="700"><br><em>Top 10 countries by active cases</em> </p>
 <p align="center"> <img src="Images/Top 10 deathrate.png" width="700"><br><em>Top 10 countries by death rates</em> </p>
 <p align="center"> <img src="Images/Top 10 recovery.png" width="700"><br><em>Top 10 countries by recovery rates</em> </p>
 
