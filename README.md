@@ -112,7 +112,12 @@ KPI	Value (approx.)
 **Report:**[ covid19.pdf](Report/covid19.pdf)
 
 ** Dashboard Preview**
-<p align="center"> <img src="Images/covid_dashboard_main.png" width="700"><br> <em>COVID-19 Global Overview Dashboard</em> </p> <p align="center"> <img src="Images/covid_top10.png" width="700"><br> <em>Top 10 Countries by Cases and Deaths</em> </p> <p align="center"> <img src="Images/covid_continent_summary.png" width="700"><br> <em>Continent-wise Case Distribution</em> </p>
+<p align="center"> <img src="Images/covid1.png" width="700"><br> </p> 
+<p align="center"> <img src="Images/covid2.png" width="700"><br>> </p>
+<p align="center"> <img src="Images/covid3.png" width="700"><br> </p>
+<p align="center"> <img src="Images/Top10 active.png" width="700"><br><em>Top 10 countries by active cases</em> </p>
+<p align="center"> <img src="Images/Top 10 deathrate.png" width="700"><br><em>Top 10 countries by death rates</em> </p>
+<p align="center"> <img src="Images/Top 10 recovery.png" width="700"><br><em>Top 10 countries by recovery rates</em> </p>
 
 **Key Insights**
 
